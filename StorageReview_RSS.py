@@ -47,4 +47,4 @@ async def rss_feed():
 #    else:
 #       print("No Change")
 
-bot.run("MTEyNDEwNDY1ODgxMDU4MTA1Mg.GN_hsT.HHnAGDjPR31htrw0AdIoYEmL_AnXFQrWdMyWZE")
+bot.run("TOKEN")
